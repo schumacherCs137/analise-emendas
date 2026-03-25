@@ -1,4 +1,4 @@
-# analise-emendas
+# Análise de Emendas
 
 ## Descrição
 Análise de um dataset de emendas parlamentares utilizando Python e pandas.
